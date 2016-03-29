@@ -9,5 +9,5 @@ while num == 1:
 	print("achievement get: be a idiot")
 
 
-else num == ["11"]:
+else num == ["911"]:
 	print("Gandhi did 9/11.")
