@@ -7,7 +7,7 @@ elif input == "Tell me more": # Should say what the hell this is
     print("Your response should be basically")
     print("Oh ok")
     print("Kadie told me to insert that don't hurt me pls");
-#this is some oh ok crash shit, ill eventually fix it
+#this is some oh ok crash shit, ill eventually not do anything about it because it was designed to be there hhahaha
 elif input == "Oh ok":
     while 69 == 69:
         print("OH OK")
