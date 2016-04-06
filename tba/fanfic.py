@@ -1,5 +1,5 @@
 # Fan Fictions from other faggots, coded into one Python doc. 2016 Robinson Gallego
-print("Options: Tell me more")
+print("Options: Tell me more, bxm, hidden one")
 if int(input("Tell me more")
 
 elif input == "Tell me more": # Should say what the hell this is
@@ -7,11 +7,12 @@ elif input == "Tell me more": # Should say what the hell this is
     print("Your response should be basically")
     print("Oh ok")
     print("Kadie told me to insert that don't hurt me pls");
-#this is some oh ok crash shit, ill eventually not do anything about it because it was designed to be there hhahaha
+#this is some oh ok crash shit, ill eventually fix it
 elif input == "Oh ok":
     while 69 == 69:
         print("OH OK")
-elif input == "something":
+elif input == "bxm":
     print("you've came to the right story to show you.")
     print("now, to get started... uh, let me type it out....")
     wait(5)
+    print("Buscus & Mibbzz - The Fanfic")
